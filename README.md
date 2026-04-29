@@ -1,2 +1,2 @@
 # cromulon-research
-data science stocks & shares isa investing project
+quant data science project
